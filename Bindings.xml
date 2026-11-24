@@ -1,0 +1,4 @@
+<Bindings>
+	<Binding name="CLICK RogueTickPoisonMH:LeftButton" header="ROGUETICK" category="ADDONS"/>
+	<Binding name="CLICK RogueTickPoisonOH:LeftButton" category="ADDONS"/>
+</Bindings>
