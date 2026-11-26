@@ -7,7 +7,7 @@ A minimal rogue UI for **WoW Forever** (Combat rogue first). Muted colours, thin
 ## Features
 
 - **Energy bar.** Smooth regen, a cap line, and a shadow that shows your energy one GCD ahead. It works even when the game hides values in combat.
-- **Combo advice.** Combo cells take the colour of the next action: blue for Sinister Strike, orange for Slice and Dice, red for Eviscerate, grey for wait. Out of stealth it suggests an opener: Ambush, Cheap Shot or Garrote.
+- **Combo advice.** Combo cells take the colour of the next action: blue for Sinister Strike, orange for Slice and Dice, red for Eviscerate, grey for wait. From stealth it suggests an opener: Ambush, Cheap Shot or Garrote.
 - **Defence cell.** Suggests Kick, Disarm, Evasion, Vanish, a potion or Feint. Kick and Disarm share a teal border.
 - **Kick timing.** A dark "too late" zone at the end of the target's cast (ping-aware). The cast turns grey when it can't be interrupted or Kick won't be ready in time.
 - **Player and target frames.** Health, power, cast bar and buffs/debuffs.
