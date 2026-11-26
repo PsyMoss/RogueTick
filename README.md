@@ -34,6 +34,10 @@ Copy the folder to `World of Warcraft/_forever_/Interface/AddOns/RogueTick/` and
 | `/et lock` | lock / unlock frames |
 | `/rth` | unit-frame options |
 
+## Feedback
+
+Found a bug or have an idea? Open an [issue](https://github.com/PsyMoss/RogueTick/issues) or start a [discussion](https://github.com/PsyMoss/RogueTick/discussions). Russian or English, both are fine. For bugs, a screenshot and the BugSack error text help a lot.
+
 ---
 
 <p align="center"><img src=".github/logo.jpg" alt="logo" width="160"></p>
